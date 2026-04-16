@@ -16,5 +16,6 @@ This project fine-tunes a Vision-Language Model (Qwen2-VL) using LoRA to convert
 
 ## 📊 Example
 
-**Input:** Image of equation  
-**Output:**  
+<img width="640" height="85" alt="image" src="https://github.com/user-attachments/assets/2fde0e7a-3545-4810-9b83-92d255573890" />
+
+**Output:** -\left[ [ B _ { n } ^ { + } , b _ { n } ^ { + } ] , b _ { n } ^ { + } \right] = n B _ { n } ^ { + } , \quad \left[ [ B _ { n } ^ { + } , b _ { n } ^ { + } ] , b _ { n } ^ { - } \right] = n B _ { n } ^ { - } \ .<|im_end|> 
