@@ -1,0 +1,7 @@
+transformers
+unsloth
+datasets
+peft
+accelerate
+bitsandbytes
+pillow
